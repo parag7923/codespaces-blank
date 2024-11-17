@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+transformers
+torch
+PyPDF2
+sentencepiece
+pypdf
+googletrans
+accelerate
+googletrans==4.0.0-rc1
